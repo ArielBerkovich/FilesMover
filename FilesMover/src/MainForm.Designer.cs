@@ -258,7 +258,7 @@
             this.Controls.Add(this.docsComboBox);
             this.Controls.Add(this.presCombobox);
             this.Name = "FilesMoverForm";
-            this.Text = "Form1";
+            this.Text = "FilesMover";
             this.Load += new System.EventHandler(this.FilesMover_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
